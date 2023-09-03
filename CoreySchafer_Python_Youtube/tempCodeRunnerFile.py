@@ -1,7 +1,6 @@
-student = {
-    'name':'John',
-    'age':25,
-    'courses':['Math','CompSci']
-}
-for key in student:
-    print(key)
+condition = None
+
+if condition:
+    print('Evaluated to True')
+else:
+    print('Evaluated to False')
