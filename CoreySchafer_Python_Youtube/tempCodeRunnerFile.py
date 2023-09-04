@@ -1,6 +1,6 @@
-condition = None
+x = 0
 
-if condition:
-    print('Evaluated to True')
-else:
-    print('Evaluated to False')
+while x < 10:
+    print(x)
+    x += 1
+ 

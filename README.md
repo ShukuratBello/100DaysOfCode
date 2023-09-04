@@ -23,3 +23,8 @@ I learnt about List Tuple and Sets from Corey's Video - Day 4, you can find the 
 # Day 2 - 02/09/2023
 I learnt Dictionaries and working with key value pairs from Corey's videos - Day 5, you can find the [code here](CoreySchafer_Python_Youtube\5-Dictionaries_Working_with_Key_Value_Pairs.py). 
 and exercise 1 from the book. My code attempt is   [here](Day02\exercise1_Number_guessing_game.py)
+
+# Day 3 - 03/09/2023
+
+# Day 4 - 04/09/2023
+I had a slow tired day today so I only learnt for loops and while loops with COrey's Youtube Videos
