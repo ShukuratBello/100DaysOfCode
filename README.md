@@ -28,3 +28,6 @@ and exercise 1 from the book. My code attempt is   [here](Day02\exercise1_Number
 
 # Day 4 - 04/09/2023
 I had a slow tired day today so I only learnt for loops and while loops with COrey's Youtube Videos
+
+# Day 5 - 05/09/2023
+I learnt how to write functions with python and tried my hands at some examples. I've always struggled with functions in the past and will need to practice more to better understand it.
