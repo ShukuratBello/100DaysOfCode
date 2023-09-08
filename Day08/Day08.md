@@ -2,4 +2,4 @@
  > How to install packages with pip.
  > List installed packages.
  > Upgrade and also delete packages.
- > how to freeze packages and save them into a file
+ > How to freeze packages and save them into a file
