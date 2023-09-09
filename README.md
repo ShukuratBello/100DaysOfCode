@@ -44,3 +44,6 @@ I wrote a sum() function using python, it was exercise 2 from the book. Skipped 
 
 # Day 8 - 08/09/2023
 I learned about package management system 'pip' and how to use it. Because it is done via the command line, I practiced it with my laptop terminal. Here is the [note] (CoreySchafer_Python_Youtube\13-pip_package_management_system.py)
+
+# Day 9 - 09/09/2023
+
