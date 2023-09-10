@@ -10,3 +10,7 @@
 # pip install numpy
 # pip install pytz
 # pip install psutil
+
+# pip freeze --local > requirements.txt
+# cat requirement.txt
+# deactivate 
