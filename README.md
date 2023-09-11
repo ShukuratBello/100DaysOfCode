@@ -48,4 +48,5 @@ I learned about package management system 'pip' and how to use it. Because it is
 # Day 9 - 09/09/2023
 
 # Day 10 - 10/09/2023
+I learned how to create virtual Environments and use different environments to manage different projects
 

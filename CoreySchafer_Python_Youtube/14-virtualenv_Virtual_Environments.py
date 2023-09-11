@@ -13,4 +13,13 @@
 
 # pip freeze --local > requirements.txt
 # cat requirement.txt
-# deactivate 
+# deactivate - exits the virtual environment
+# rm -f project1_env/ - del not rm for windows
+# virtualenv -p /usr/bin/python2.6 py26_env - version of python project name.
+# source py26_env/bin/activate
+# which python
+# python --version
+# ls
+# pip install -r requirements.txt
+# pip list
+# 
