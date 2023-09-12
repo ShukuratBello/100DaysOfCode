@@ -50,3 +50,7 @@ I learned about package management system 'pip' and how to use it. Because it is
 # Day 10 - 10/09/2023
 I learned how to create virtual Environments and use different environments to manage different projects
 
+# Day 11 - 11/09/2023
+
+# Day 12 - 12/09/2023
+I started CS50x today. I watched half of the first video
