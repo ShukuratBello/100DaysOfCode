@@ -38,3 +38,5 @@ def greet(name):
     
 greet ("Jack")  #- Jack is an arguement 
 
+
+# Built-In Functions - sum, len

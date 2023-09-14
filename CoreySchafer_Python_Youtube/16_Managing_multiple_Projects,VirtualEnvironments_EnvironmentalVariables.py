@@ -44,3 +44,9 @@
 # Conda_auto_env()
 
 # This video was hard for me to understand, I'll come back for it.
+
+# Linked Resources
+# https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
+# https://github.com/chdoig/conda-auto-env/blob/master/conda_auto_env.sh
+# https://github.com/CoreyMSchafer/code_snippets/blob/master/conda_auto_env.sh
+#
