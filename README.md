@@ -77,3 +77,16 @@ I learned how to create virtual Environments and use different environments to m
 
 # Day 12 - 12/09/2023
 I started CS50x today. I watched half of the first video
+
+# Day 13 - 13/09/2023
+
+
+# Day 14 - 14/09/2023
+
+# Day 15 - 15/09/2023
+
+# Day 16 - 16/09/2023
+
+# Day 17 - 17/09/2023
+I am working on a Data Science project to predict the TItanic survival rate using the Titanic Dataset from Kaggle. Here is the [code]()
+
