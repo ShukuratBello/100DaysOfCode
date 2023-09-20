@@ -90,3 +90,8 @@ I started CS50x today. I watched half of the first video
 # Day 17 - 17/09/2023
 I am working on a Data Science project to predict the TItanic survival rate using the Titanic Dataset from Kaggle. Here is the [code]()
 
+# Day 18 - 
+
+# Day 19-
+
+# Day 20
