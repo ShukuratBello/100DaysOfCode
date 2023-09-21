@@ -94,4 +94,6 @@ I am working on a Data Science project to predict the TItanic survival rate usin
 
 # Day 19-
 
-# Day 20
+# Day 20 -
+
+# Day 21 - Intermediate python course from  Datacamp
