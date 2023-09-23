@@ -98,4 +98,6 @@ I am working on a Data Science project to predict the TItanic survival rate usin
 
 # Day 21 - Intermediate python course from  Datacamp
 
-# Day 22 - Completed the datacamp intermediate course
+# Day 22 - Continued the datacamp intermediate course
+
+# Day 23 - Completed the Datacamp Intermediate cousrse
